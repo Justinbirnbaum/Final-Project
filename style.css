@@ -1,0 +1,339 @@
+.navbar{
+
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+	font-family: raleway, serif;
+
+	 
+
+
+}
+
+.main1{
+
+	background: url(Muirfield-Village-53.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.packpic{
+
+	background: url(4f31981012bb5149d4c400408fcc1300.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.improve2{
+
+	font-size: 50px;
+	padding: 250px;
+	color: white;
+	text-align: center;
+}
+
+.improve{
+
+	font-size: 40px;
+	padding: 250px;
+	color: white;
+	text-align: center;
+
+
+}
+
+header{
+
+	display: flex;
+	justify-content: space-around;
+	
+
+}
+
+
+nav{
+
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	background-color: #2AC635;
+	position: -webkit-sticky;
+
+
+}
+
+.definition{
+
+	text-align: center;
+	color: #2AC635;;
+	font-size: 40px;
+
+}
+
+section{
+
+	width: 100%;
+
+}
+
+.science{
+
+	background-color: #2AC635;
+	padding-left: 10px;
+	padding-bottom: .5px;
+}
+
+#gamep{
+
+
+	font-size: 20px;
+
+}
+
+#game{
+
+	font-size: 30px;
+}
+
+.defp{
+
+	
+	text-align: center;
+	color: #2AC635;
+	width: 450px;
+	padding-left: 410px;
+	padding-right: 550px;
+	font-size: 22px;
+
+
+}
+
+body{
+
+font-family: raleway, serif;
+	
+}
+
+footer{
+
+	background: url(Golf.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pic2{
+
+font-size: 50px;
+	padding: 200px;
+	color: white;
+	text-align: center;
+
+}
+
+.package2{
+
+	font-size: 40px;
+	text-align: center;
+	align-items: center;
+
+}
+
+.forms{
+
+	font-size: 30px;	
+	color: black;
+
+}
+
+.container{
+
+	display: flex;
+	flex-wrap: wrap;
+	background-color: lightgreen;
+	text-align: center;
+}
+
+.packagebox{
+
+	border: 5px solid green;
+	height: 400px;
+	width: 400px;
+	background-color: #2AC635;
+	
+	
+
+}
+
+.boxrate{
+
+	font-size: 30px;
+	color: white;
+}
+
+h5{
+
+	font-size: 45px;
+	color: white;
+	text-align: center;
+}
+
+#box1{
+
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+#box2{
+
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+h6{
+font-size: 50px;
+	color: white;
+	margin-bottom: 50px;
+	margin-top: 70px;
+	text-align: center;
+	
+
+}
+
+.packrate{
+
+font-size: 45px;
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 50px;
+
+}
+
+#box3{
+margin-left: 150px;
+margin-top: 15px;
+
+}
+
+#box4{
+
+	margin-left: 100px;
+	margin-top: 15px;
+}
+
+h7{
+
+	font-size: 45px;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+}
+
+h8{
+
+	font-size: 40px;
+	color: white;
+
+}
+.lesson{
+
+	font-size: 34px;
+	color: white;
+}
+
+.two{
+
+	font-size: 34px;
+	color: white;
+}
+
+
+.imageblog{
+
+	background: url(golf-09.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.blogimg{
+
+	font-size: 100px;
+	padding-bottom: 300px;
+	color: white;
+	padding-left: 530px;
+	padding-top: 300px;
+}
+
+
+
+h9{
+
+	font-size: 35px;
+	text-decoration: underline;
+}
+
+.video{
+
+	font-size: 25px;
+}
+
+.tips{
+
+background-color: #2AC635;
+
+}
+
+.linktitle{
+
+	font-size: 30px;
+	color: #2AC635;
+}
+
+.linklist{
+
+	font-size: 20px;
+	color: #2AC635;
+}
+
+.list1{
+
+	color: #2AC635;
+}
+
+.blogpic{
+
+	background: url(golf-2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.blogpic2{
+
+	padding-bottom: 500px;
+	font-size: 30px;
+}
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
